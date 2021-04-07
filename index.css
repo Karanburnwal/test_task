@@ -22,8 +22,8 @@ button {
 }
 .head_center h5 {
   color: rgb(210, 212, 226);
-  margin-left: 25px;
-  padding: 8px;
+  margin-left: 5px;
+  padding-top: 8px;
 }
 .subscribe_content input {
   padding: 7px 0 6px 20px;
@@ -32,7 +32,7 @@ button {
   background-color: rgba(187, 187, 228, 0.89);
 }
 .subscribe_content button {
-  padding: 6px 6px 5px 10px;
+  padding: 8px 6px 8px 10px;
   background-color: rgb(117, 117, 238);
   color: white;
   cursor: pointer;
@@ -126,4 +126,13 @@ button {
 
 .all_content {
   margin-bottom: 100px;
+}
+@media only screen and (max-width: 600px) {
+  .subscribe_content input {
+    font-size: 0.6rem;
+    padding: 9px;
+  }
+  .head-center i {
+    font-size: 0.3rem;
+  }
 }

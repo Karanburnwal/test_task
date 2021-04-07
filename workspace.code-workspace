@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\javascript-basic-projects-master\\8-menu\\final\\images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "test_task"
+  }
+}

@@ -129,10 +129,8 @@ button {
 }
 @media only screen and (max-width: 600px) {
   .subscribe_content input {
-    font-size: 0.6rem;
+    font-size: 0.55rem;
     padding: 9px;
-  }
-  .head-center i {
-    font-size: 0.3rem;
+    padding-top: 11px;
   }
 }
